@@ -14,5 +14,9 @@ $ swift build
 ```
 *Run*
 ```
+$ swift run ColoredShapes <path/to/input.json> <path/to/target.json>
+```
+or
+```
 $ .build/debug/ColoredShapes <path/to/input.json> <path/to/target.json>
 ```
